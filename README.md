@@ -1,4 +1,4 @@
-# Atividade: Algoritmos e Estruturas de Vetores em JavaScript
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10BCF7&height=180&section=header&text=Atividade:+Algoritmos+e+Estruturas+de+Vetores+em+JavaScript&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 Este repositório contém a resolução de três programas propostos para praticar a lógica de programação e a manipulação manual de estruturas de dados (vetores/arrays) em JavaScript, sem o uso de funções ou métodos prontos do ecossistema da linguagem (como `.push()`, `.filter()`, etc.).
 
@@ -34,3 +34,5 @@ Ao final, realiza uma busca para exibir:
 * A menor altura cadastrada e o nome da respectiva pessoa.
 
 ---
+<img width="498" height="281" alt="RayquazaGroudonGIF" src="https://github.com/user-attachments/assets/75f96ecc-6780-4e89-ba35-5105451dc156" />
+
